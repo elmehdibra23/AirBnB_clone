@@ -1,0 +1,1 @@
+This Airbnb clone is a Python-based project developed for the ALX Software Engineering Program. It replicates key features of Airbnb, such as user registration, property listing, and booking. It serves as a practical application of Python programming in the realm of web development.
